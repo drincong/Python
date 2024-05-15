@@ -1,0 +1,10 @@
+setup.py
+Pre_Entrega2/Cliente.py
+Pre_Entrega2/Persona.py
+Pre_Entrega2/__init__.py
+Pre_Entrega2/pre_entrega1.py
+Pre_Entrega2/pre_entrega2.py
+Pre_Entrega2.egg-info/PKG-INFO
+Pre_Entrega2.egg-info/SOURCES.txt
+Pre_Entrega2.egg-info/dependency_links.txt
+Pre_Entrega2.egg-info/top_level.txt
